@@ -1,0 +1,49 @@
+.btn-cus{
+	background-color:#C9302C !important;
+}
+
+.form-control-cus {
+  display: block;
+  width: 100%;
+  padding: 10px 10px;;
+  font-size: 1.122rem;
+  line-height: 1.450;
+  font-size:16px;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem; 
+ 
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.mt-10{
+	margin-top:10px !important;
+}
+
+.pl-10{
+	padding-left:10px !important;
+}
+
+.mb-20{
+	margin-bottom:20px;
+}
+
+.input-file-btn{
+position: absolute;
+  font-size: 50px;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
+
+
+.form-submit-btn{
+	padding:10px 50px;
+	font-size:18px;
+}
+
+.btn-clr-green{
+	background-color:#449D44 !important;
+}
